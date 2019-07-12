@@ -1,0 +1,34 @@
+{
+  "restaurant": [
+    {
+      "precioPlatillo": "200",
+      "nombrePlatillo": "Cheesecake",
+      "categoria": "postres",
+      "id": 1
+    },
+    {
+      "precioPlatillo": "300",
+      "nombrePlatillo": "Tira de asado",
+      "categoria": "cortes",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "Pinta 700cc Golden",
+      "precioPlatillo": "85",
+      "categoria": "bebida",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "Papas con Cheddar",
+      "precioPlatillo": "145",
+      "categoria": "cortes",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "Fernet con Coca",
+      "precioPlatillo": "150",
+      "categoria": "bebida",
+      "id": 5
+    }
+  ]
+}
